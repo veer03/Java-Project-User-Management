@@ -33,4 +33,4 @@ A simple and elegant **User Management System** built with **JSP, Servlets, Java
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/veer03/Java-Project-User-Management.git
+   git clone [https://github.com/veer03/Java-Project-User-Management.git](https://github.com/veer03/Java-Project-User-Management)
